@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Food</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="categories">دسته بندی ها</string>
+    <string name="image_food">Image Food</string>
+    <string name="addCategory">افزودن دسته بندی</string>
+    <string name="close">close</string>
+    <string name="categoryName">نام دسته بندی</string>
+    <string name="addFood">افزودن غذا</string>
+    <string name="foodName">نام غذا</string>
+    <string name="recipe">دستور پخت</string>
+    <string name="save">save</string>
+    <string name="search">جستجو</string>
+</resources>
